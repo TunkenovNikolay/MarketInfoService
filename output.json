@@ -1,0 +1,87 @@
+{
+  "type": "search",
+  "results": [
+    {
+      "criteria": {
+        "lastName": "Тункенова"
+      },
+      "results": [
+        {
+          "lastName": "Тункенова",
+          "firstName": "Полина"
+        }
+      ]
+    },
+    {
+      "criteria": {
+        "productName": "Минеральная вода",
+        "minTimes": 1
+      },
+      "results": [
+        {
+          "lastName": "Петров",
+          "firstName": "Иван"
+        },
+        {
+          "lastName": "Полянский",
+          "firstName": "Сергей"
+        },
+        {
+          "lastName": "Елисов",
+          "firstName": "Евгений"
+        },
+        {
+          "lastName": "Тункенова",
+          "firstName": "Полина"
+        },
+        {
+          "lastName": "Гребенюк",
+          "firstName": "Наталья"
+        }
+      ]
+    },
+    {
+      "criteria": {
+        "minExpenses": 112,
+        "maxExpenses": 4000
+      },
+      "results": [
+        {
+          "lastName": "Елисов",
+          "firstName": "Евгений"
+        },
+        {
+          "lastName": "Янович",
+          "firstName": "Николай"
+        },
+        {
+          "lastName": "Петров",
+          "firstName": "Иван"
+        },
+        {
+          "lastName": "Тункенова",
+          "firstName": "Полина"
+        }
+      ]
+    },
+    {
+      "criteria": {
+        "badCustomers": 3
+      },
+      "results": [
+        {
+          "lastName": "Полянский",
+          "firstName": "Сергей"
+        },
+        {
+          "lastName": "Гребенюк",
+          "firstName": "Наталья"
+        },
+        {
+          "lastName": "Елисов",
+          "firstName": "Евгений"
+        }
+      ]
+    }
+  ]
+}
