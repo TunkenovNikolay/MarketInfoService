@@ -84,5 +84,5 @@ P.S. Критерии могут повторяться.
 }
 
 
-Edit By TunkenovNikolay 
+Edit By Tunkenov Nikolay 
 https://vk.com/nik0sh
