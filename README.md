@@ -11,7 +11,7 @@
 
 Параметры postgres:
 
-db: postgres
+db: shop
 
 username: postgres
 
