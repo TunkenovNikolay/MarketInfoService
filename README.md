@@ -19,7 +19,7 @@ password: admin
 
 **ИНСТРУКЦИЯ ЗАПУСКА:**
 
-Пример запуска программы: java -jar MarketInfoService-1.0-SNAPSHOT.jar search input.json output.json
+**Пример запуска программы:** ***java -jar MarketInfoService-1.0-SNAPSHOT.jar search input.json output.json***
 
 Значение аргументов:
 
